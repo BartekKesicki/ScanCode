@@ -1,6 +1,10 @@
 # scan_code
 
-A new Flutter project.
+This project is a mobile application written in Flutter. It contains simple qr code scanner with url launcher. Usage is pretty easy:
+
+ - direct device's camera on qr code
+ - wait until dialog with decoded qr code shows on the screen
+ - decide if you want to go to the page or not and scan again
 
 ## Getting Started
 
